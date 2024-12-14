@@ -1,0 +1,11 @@
+Player Hand,Player Value,Banker Hand,Banker Value,Winner
+6 of Diamonds-3 of Spades,9,2 of Clubs-K of Clubs-A of Spades,3,Player
+10 of Diamonds-9 of Spades,9,8 of Clubs-8 of Clubs,6,Player
+7 of Diamonds-2 of Diamonds,9,4 of Clubs-5 of Diamonds,9,Tie
+6 of Hearts-3 of Clubs,9,9 of Hearts-J of Spades,9,Tie
+7 of Spades-8 of Spades-4 of Diamonds,9,J of Diamonds-3 of Clubs-7 of Clubs,0,Player
+6 of Spades-4 of Diamonds-3 of Spades,3,2 of Spades-K of Clubs-3 of Diamonds,5,Banker
+8 of Hearts-8 of Diamonds,6,10 of Hearts-A of Clubs-5 of Spades,6,Tie
+8 of Spades-Q of Spades,8,J of Clubs-K of Clubs-10 of Spades,0,Player
+7 of Diamonds-J of Diamonds,7,2 of Diamonds-4 of Hearts,6,Player
+6 of Spades-10 of Clubs,6,K of Hearts-2 of Spades-4 of Hearts,6,Tie

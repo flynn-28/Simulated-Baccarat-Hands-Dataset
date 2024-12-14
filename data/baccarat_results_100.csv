@@ -1,0 +1,101 @@
+Player Hand,Player Value,Banker Hand,Banker Value,Winner
+Q of Hearts-7 of Hearts,7,3 of Diamonds-9 of Spades-8 of Clubs,0,Player
+6 of Hearts-K of Diamonds,6,6 of Diamonds-10 of Clubs,6,Tie
+7 of Clubs-6 of Hearts-K of Hearts,3,3 of Spades-2 of Diamonds-J of Clubs,5,Banker
+8 of Hearts-J of Spades,8,A of Hearts-K of Spades-6 of Clubs,7,Player
+Q of Spades-10 of Hearts-10 of Hearts,0,5 of Spades-A of Diamonds,6,Banker
+K of Clubs-J of Hearts-2 of Clubs,2,6 of Clubs-A of Clubs,7,Banker
+8 of Diamonds-9 of Hearts,7,K of Diamonds-Q of Clubs-J of Spades,0,Player
+Q of Clubs-2 of Spades-A of Hearts,3,8 of Spades-K of Spades,8,Banker
+K of Spades-9 of Hearts,9,J of Hearts-10 of Diamonds-K of Diamonds,0,Player
+10 of Diamonds-5 of Clubs-A of Spades,6,A of Clubs-6 of Diamonds,7,Banker
+8 of Spades-6 of Hearts-3 of Clubs,7,Q of Diamonds-9 of Spades,9,Banker
+3 of Diamonds-J of Hearts-10 of Clubs,3,9 of Spades-10 of Clubs,9,Banker
+5 of Diamonds-5 of Hearts-Q of Clubs,0,A of Hearts-Q of Clubs-10 of Clubs,1,Banker
+3 of Diamonds-7 of Hearts-4 of Clubs,4,9 of Clubs-7 of Hearts,6,Banker
+K of Spades-9 of Spades,9,8 of Hearts-A of Spades,9,Tie
+K of Diamonds-2 of Clubs-5 of Spades,7,9 of Hearts-10 of Spades,9,Banker
+10 of Spades-K of Clubs-K of Hearts,0,10 of Hearts-K of Hearts-A of Diamonds,1,Banker
+10 of Diamonds-Q of Diamonds-6 of Spades,6,8 of Hearts-J of Hearts,8,Banker
+6 of Clubs-J of Spades,6,5 of Spades-7 of Diamonds-3 of Clubs,5,Player
+8 of Clubs-J of Hearts,8,8 of Hearts-A of Diamonds,9,Banker
+9 of Diamonds-2 of Hearts-7 of Clubs,8,7 of Diamonds-6 of Diamonds-6 of Clubs,9,Banker
+10 of Diamonds-J of Hearts-7 of Clubs,7,4 of Spades-6 of Clubs-6 of Spades,6,Player
+8 of Spades-7 of Spades-A of Hearts,6,7 of Hearts-8 of Clubs-2 of Clubs,7,Banker
+10 of Spades-3 of Diamonds-8 of Spades,1,5 of Diamonds-9 of Spades-6 of Hearts,0,Player
+7 of Spades-2 of Diamonds,9,K of Hearts-J of Clubs-8 of Diamonds,8,Player
+9 of Diamonds-2 of Hearts-J of Spades,1,7 of Diamonds-9 of Clubs,6,Banker
+9 of Diamonds-9 of Clubs,8,5 of Clubs-5 of Hearts-9 of Diamonds,9,Banker
+5 of Hearts-2 of Hearts,7,10 of Clubs-A of Clubs-Q of Spades,1,Player
+6 of Clubs-2 of Hearts,8,3 of Clubs-6 of Spades,9,Banker
+K of Clubs-6 of Spades,6,3 of Spades-A of Hearts-5 of Spades,9,Banker
+Q of Hearts-Q of Diamonds-6 of Hearts,6,2 of Diamonds-6 of Diamonds,8,Banker
+J of Clubs-8 of Spades,8,9 of Hearts-5 of Hearts-7 of Spades,1,Player
+10 of Hearts-8 of Diamonds,8,6 of Diamonds-Q of Spades,6,Player
+5 of Clubs-J of Hearts-Q of Spades,5,4 of Clubs-8 of Hearts-2 of Diamonds,4,Player
+9 of Diamonds-10 of Clubs,9,A of Hearts-5 of Clubs,6,Player
+Q of Hearts-A of Diamonds-2 of Diamonds,3,Q of Diamonds-9 of Spades,9,Banker
+5 of Hearts-Q of Diamonds-3 of Clubs,8,3 of Diamonds-3 of Hearts,6,Player
+2 of Hearts-9 of Clubs-7 of Hearts,8,3 of Diamonds-J of Diamonds-6 of Diamonds,9,Banker
+4 of Diamonds-7 of Hearts-A of Hearts,2,2 of Spades-6 of Hearts,8,Banker
+2 of Spades-3 of Diamonds-7 of Spades,2,7 of Spades-A of Hearts,8,Banker
+Q of Spades-K of Spades-4 of Clubs,4,Q of Clubs-2 of Clubs-2 of Diamonds,4,Tie
+2 of Diamonds-3 of Spades-3 of Hearts,8,4 of Spades-3 of Clubs,7,Player
+8 of Clubs-A of Spades,9,A of Spades-K of Clubs-7 of Clubs,8,Player
+9 of Hearts-3 of Hearts-Q of Clubs,2,4 of Diamonds-Q of Diamonds-7 of Diamonds,1,Player
+J of Diamonds-4 of Hearts-7 of Spades,1,3 of Spades-A of Spades-10 of Spades,4,Banker
+10 of Spades-3 of Spades-9 of Hearts,2,9 of Clubs-A of Diamonds-5 of Diamonds,5,Banker
+4 of Spades-J of Diamonds-K of Spades,4,9 of Hearts-K of Diamonds,9,Banker
+J of Diamonds-5 of Clubs-4 of Spades,9,7 of Clubs-J of Diamonds,7,Player
+4 of Spades-2 of Clubs,6,2 of Clubs-5 of Hearts,7,Banker
+A of Diamonds-8 of Spades,9,J of Diamonds-8 of Hearts,8,Player
+4 of Hearts-6 of Hearts-J of Clubs,0,9 of Clubs-5 of Clubs-J of Clubs,4,Banker
+2 of Spades-4 of Hearts,6,3 of Hearts-4 of Diamonds,7,Banker
+A of Spades-7 of Clubs,8,5 of Diamonds-8 of Clubs-6 of Spades,9,Banker
+K of Spades-K of Hearts-8 of Diamonds,8,10 of Diamonds-8 of Spades,8,Tie
+10 of Hearts-Q of Hearts-7 of Hearts,7,4 of Spades-10 of Spades-6 of Spades,0,Player
+5 of Spades-10 of Diamonds-2 of Hearts,7,9 of Spades-2 of Spades-4 of Clubs,5,Player
+10 of Clubs-2 of Diamonds-3 of Clubs,5,K of Clubs-A of Clubs-A of Spades,2,Player
+A of Diamonds-8 of Diamonds,9,5 of Spades-A of Clubs,6,Player
+5 of Diamonds-4 of Diamonds,9,2 of Spades-4 of Clubs,6,Player
+10 of Hearts-9 of Diamonds,9,3 of Clubs-5 of Spades,8,Player
+4 of Hearts-5 of Hearts,9,Q of Clubs-10 of Diamonds-3 of Spades,3,Player
+9 of Hearts-3 of Hearts-A of Clubs,3,4 of Clubs-10 of Clubs-K of Clubs,4,Banker
+3 of Hearts-4 of Diamonds,7,J of Clubs-9 of Diamonds,9,Banker
+K of Spades-7 of Diamonds,7,K of Hearts-3 of Diamonds-8 of Spades,1,Player
+Q of Clubs-8 of Diamonds,8,7 of Spades-9 of Diamonds,6,Player
+7 of Diamonds-Q of Spades,7,Q of Diamonds-9 of Spades,9,Banker
+3 of Hearts-8 of Diamonds-5 of Diamonds,6,4 of Clubs-7 of Clubs-A of Clubs,2,Player
+4 of Diamonds-4 of Hearts,8,4 of Spades-2 of Spades,6,Player
+J of Diamonds-8 of Clubs,8,A of Clubs-A of Diamonds-J of Spades,2,Player
+7 of Diamonds-6 of Hearts-3 of Hearts,6,J of Spades-8 of Clubs,8,Banker
+10 of Hearts-Q of Hearts-K of Diamonds,0,6 of Diamonds-6 of Diamonds-3 of Spades,5,Banker
+6 of Clubs-8 of Clubs-Q of Hearts,4,7 of Spades-9 of Clubs,6,Banker
+8 of Hearts-4 of Spades-4 of Clubs,6,J of Clubs-J of Diamonds-K of Hearts,0,Player
+10 of Spades-Q of Spades-4 of Diamonds,4,A of Spades-6 of Spades,7,Banker
+J of Spades-10 of Spades-2 of Hearts,2,K of Clubs-Q of Spades-4 of Hearts,4,Banker
+5 of Hearts-4 of Diamonds,9,K of Diamonds-9 of Clubs,9,Tie
+J of Hearts-2 of Clubs-K of Clubs,2,7 of Clubs-10 of Diamonds,7,Banker
+2 of Clubs-5 of Diamonds,7,3 of Clubs-2 of Hearts-10 of Hearts,5,Player
+6 of Spades-5 of Spades-4 of Hearts,5,J of Spades-2 of Spades-J of Clubs,2,Player
+5 of Clubs-6 of Clubs-4 of Hearts,5,5 of Clubs-Q of Hearts-Q of Hearts,5,Tie
+4 of Hearts-10 of Hearts-K of Hearts,4,K of Clubs-4 of Clubs-8 of Diamonds,2,Player
+9 of Diamonds-A of Spades-3 of Clubs,3,9 of Clubs-6 of Hearts-10 of Diamonds,5,Banker
+5 of Spades-9 of Hearts-3 of Clubs,7,Q of Spades-A of Diamonds-J of Clubs,1,Player
+9 of Spades-7 of Spades,6,3 of Clubs-10 of Hearts-3 of Hearts,6,Tie
+9 of Diamonds-K of Clubs,9,Q of Hearts-4 of Spades-K of Hearts,4,Player
+Q of Hearts-J of Spades-10 of Spades,0,J of Spades-3 of Diamonds-7 of Clubs,0,Tie
+4 of Clubs-9 of Clubs-7 of Hearts,0,Q of Clubs-Q of Spades-6 of Diamonds,6,Banker
+5 of Spades-5 of Clubs-J of Clubs,0,Q of Spades-2 of Hearts-5 of Diamonds,7,Banker
+4 of Spades-2 of Spades,6,8 of Spades-4 of Diamonds-A of Clubs,3,Player
+6 of Spades-A of Clubs,7,Q of Hearts-J of Hearts-10 of Clubs,0,Player
+8 of Hearts-9 of Diamonds,7,6 of Clubs-K of Hearts,6,Player
+9 of Diamonds-5 of Hearts-3 of Diamonds,7,A of Diamonds-7 of Clubs,8,Banker
+2 of Hearts-3 of Hearts-5 of Hearts,0,8 of Clubs-4 of Diamonds-A of Hearts,3,Banker
+8 of Clubs-A of Hearts,9,Q of Hearts-4 of Hearts-10 of Spades,4,Player
+J of Diamonds-10 of Spades-K of Diamonds,0,J of Spades-A of Spades-6 of Hearts,7,Banker
+9 of Diamonds-A of Spades-3 of Spades,3,3 of Diamonds-A of Spades-6 of Clubs,0,Player
+J of Hearts-K of Clubs-4 of Spades,4,10 of Diamonds-7 of Spades,7,Banker
+10 of Clubs-Q of Diamonds-8 of Spades,8,J of Diamonds-K of Spades-Q of Hearts,0,Player
+5 of Diamonds-9 of Diamonds-2 of Hearts,6,A of Spades-2 of Clubs-6 of Diamonds,9,Banker
+Q of Diamonds-10 of Diamonds-A of Clubs,1,5 of Diamonds-3 of Hearts,8,Banker
